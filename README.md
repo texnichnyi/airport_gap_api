@@ -1,2 +1,8 @@
-# airport_gap_api
-Test task 2
+# ControlUp - second task (API)
+
+Please run a tests with next command
+
+```bash
+  pip install -r requirements.txt
+  pytest
+```
